@@ -10,3 +10,5 @@ dependencies:
   - beakerx
   - ipywidgets
   - r-essentials
+  - beautifulsoup4
+  - requests
